@@ -26,5 +26,11 @@ print(type(age))
 print(type(gpa))
 print(type(is_married))
 
+print('I am {}'.format(student_name))
+print(f'I am {student_name}')
+print(f'I am {student_name}')
 
+print(5 % 4)
 
+s = 'I love python'
+print('python' in s)
